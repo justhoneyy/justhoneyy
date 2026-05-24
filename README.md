@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding GIF" src="https://www.flaticon.com/free-icon/hacker_924915?term=hacker&page=1&position=1&origin=tag&related_id=924915" width="280" style="border-radius: 10px; margin: 20px 0;" />
+  <img alt="Coding GIF" src="https://img.icons8.com/?size=100&id=CEDsWKyKeA9z&format=png&color=000000" width="280" style="border-radius: 10px; margin: 20px 0;" />
 </div> 
 
 ### 👨‍💻 Summary
