@@ -94,16 +94,24 @@
 
 ## 📊 Github Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuvrajSingh-rajput&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="yuvrajSingh-rajput GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=yuvrajSingh-rajput&theme=dark&hide_border=true&border_radius=5&card_width=450" width="49%" alt="GitHub Streak" />
-</div>
 
-<br/>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Smartmind2910@gmail.com) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=justhoneyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=justhoneyy&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=justhoneyy&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajSingh-rajput&theme=dark&show_icons=true&locale=en&card_width=450&hide_border=true" alt="Top Languages" width="49%" />
-</div>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=justhoneyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://komarev.com/ghpvc/?username=justhoneyy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ## 🐍 Github Contributions
