@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding GIF" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="280" style="border-radius: 10px; margin: 20px 0;" />
+  <img alt="Coding GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR3SL5PMRIEh9axc9pFD3CrLANpX9GPBT5mrrq1XRitg&s=10" width="280" style="border-radius: 10px; margin: 20px 0;" />
 </div> 
 
 ### 👨‍💻 Summary
