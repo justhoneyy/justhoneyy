@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Honey%20hada%20Rajput!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&customColorList=24" alt="Header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,%20I'm%20Honey%20%20!&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff&customColorList=24" alt="Header banner" width="100%" />
 </div>
 
 ## 💫 About Me
