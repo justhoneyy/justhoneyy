@@ -67,7 +67,7 @@
   <a href="https://x.com/yuvrajsingh2335"><img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twitter" /></a>
   <a href="mailto:yuvrajsingh01579@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="Email" /></a>
   <a href="https://discord.com/channels/@_yuvrajsinghrajput"><img src="https://skillicons.dev/icons?i=discord&theme=light" alt="Discord" /></a>
-  <a href="https://www.instagram.com/_yuvrajsinghrajput_/"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/idk_.honeyy?igsh=emJrdGxwdWF4bms2"><img src="https://skillicons.dev/icons?i=instagram&theme=light" alt="Instagram" /></a>
 </div>
 
 <div align="center">
