@@ -117,7 +117,7 @@
 ## 🐍 Github Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yuvrajSingh-rajput/yuvrajSingh-rajput/7bbedb8b0efe0ea87b38ed0ddab58d31b0e44bd1/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <img src="https://raw.githubusercontent .com/justhoneyy/justhoneyy/output/github -contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ## 🏆 Github Trophies
